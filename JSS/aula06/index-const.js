@@ -7,7 +7,7 @@
  // Não podem conter espaços ou traços
  // Utilizammos camelCase
  
- // Não podemos mudar o valor de uma constante
+ // Não podemos mudar o valor de uma constante ao longo do código
 
 
  let nomeCliente = "Luana";
