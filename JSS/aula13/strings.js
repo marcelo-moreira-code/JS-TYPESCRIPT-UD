@@ -48,4 +48,11 @@ console.log(trava.length);
 console.log(trava.slice(2, 6));
 
 //.split();
+//console.log(trava.split(" "));
 
+// .toUpperCase();
+// console.log(trava.toLowerCase());
+
+console.log(trava.toUpperCase());
+console.log(trava.toLowerCase());
+console.log(trava.normalize());
